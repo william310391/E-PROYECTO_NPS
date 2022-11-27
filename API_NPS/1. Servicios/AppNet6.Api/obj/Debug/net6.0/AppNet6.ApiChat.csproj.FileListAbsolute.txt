@@ -1,0 +1,249 @@
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\appsettings.Development.json
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\appsettings.json
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.ApiChat.exe
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.ApiChat.deps.json
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.ApiChat.runtimeconfig.json
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.ApiChat.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.ApiChat.pdb
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AutoMapper.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\FluentValidation.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.Core.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.Infrestructuras.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.Negocios.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.Negocios.pdb
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.Core.pdb
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.Infrestructuras.pdb
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.csproj.AssemblyReference.cache
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.GeneratedMSBuildEditorConfig.editorconfig
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.AssemblyInfoInputs.cache
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.AssemblyInfo.cs
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.csproj.CoreCompileInputs.cache
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.MvcApplicationPartsAssemblyInfo.cs
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.MvcApplicationPartsAssemblyInfo.cache
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\staticwebassets.build.json
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\staticwebassets.development.json
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\scopedcss\bundle\AppNet6.ApiChat.styles.css
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.csproj.CopyComplete
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\refint\AppNet6.ApiChat.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.pdb
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.genruntimeconfig.cache
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\ref\AppNet6.ApiChat.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\staticwebassets\msbuild.AppNet6.ApiChat.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\staticwebassets\msbuild.build.AppNet6.ApiChat.props
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AppNet6.ApiChat.props
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AppNet6.ApiChat.props
+E:\ejemplos NET 6\AppNet6\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\staticwebassets.pack.json
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\appsettings.Development.json
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\appsettings.json
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.ApiChat.exe
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.ApiChat.deps.json
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.ApiChat.runtimeconfig.json
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.ApiChat.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.ApiChat.pdb
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AutoMapper.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\FluentValidation.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.Core.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.Infrestructuras.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.Negocios.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.Negocios.pdb
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.Core.pdb
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.Infrestructuras.pdb
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.csproj.AssemblyReference.cache
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.AssemblyInfoInputs.cache
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.AssemblyInfo.cs
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.csproj.CoreCompileInputs.cache
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.MvcApplicationPartsAssemblyInfo.cs
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.MvcApplicationPartsAssemblyInfo.cache
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\staticwebassets\msbuild.AppNet6.ApiChat.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\staticwebassets\msbuild.build.AppNet6.ApiChat.props
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AppNet6.ApiChat.props
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AppNet6.ApiChat.props
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\staticwebassets.pack.json
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\staticwebassets.build.json
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\staticwebassets.development.json
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\scopedcss\bundle\AppNet6.ApiChat.styles.css
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.csproj.CopyComplete
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\refint\AppNet6.ApiChat.dll
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.pdb
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.genruntimeconfig.cache
+E:\PROYECTO_NPS\AppNet6\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\ref\AppNet6.ApiChat.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\appsettings.Development.json
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\appsettings.json
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.ApiChat.exe
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.ApiChat.deps.json
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.ApiChat.runtimeconfig.json
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.ApiChat.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.ApiChat.pdb
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AutoMapper.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\FluentValidation.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.Core.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.Infrestructuras.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.Negocios.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.Negocios.pdb
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.Core.pdb
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\bin\Debug\net6.0\AppNet6.Infrestructuras.pdb
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.csproj.AssemblyReference.cache
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.AssemblyInfoInputs.cache
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.AssemblyInfo.cs
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.csproj.CoreCompileInputs.cache
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.MvcApplicationPartsAssemblyInfo.cs
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.MvcApplicationPartsAssemblyInfo.cache
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\staticwebassets\msbuild.AppNet6.ApiChat.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\staticwebassets\msbuild.build.AppNet6.ApiChat.props
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AppNet6.ApiChat.props
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AppNet6.ApiChat.props
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\staticwebassets.pack.json
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\staticwebassets.build.json
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\staticwebassets.development.json
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\scopedcss\bundle\AppNet6.ApiChat.styles.css
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.csproj.CopyComplete
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\refint\AppNet6.ApiChat.dll
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.pdb
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\AppNet6.ApiChat.genruntimeconfig.cache
+E:\PROYECTO_NPS\API_NPS\1. Servicios\AppNet6.ApiChat\obj\Debug\net6.0\ref\AppNet6.ApiChat.dll

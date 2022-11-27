@@ -1,0 +1,36 @@
+E:\ejemplos NET 6\AppNet6\AppNet6\4. Core\AppNet6.Core\bin\Debug\net6.0\AppNet6.Core.deps.json
+E:\ejemplos NET 6\AppNet6\AppNet6\4. Core\AppNet6.Core\bin\Debug\net6.0\AppNet6.Core.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\4. Core\AppNet6.Core\bin\Debug\net6.0\AppNet6.Core.pdb
+E:\ejemplos NET 6\AppNet6\AppNet6\4. Core\AppNet6.Core\obj\Debug\net6.0\AppNet6.Core.csproj.AssemblyReference.cache
+E:\ejemplos NET 6\AppNet6\AppNet6\4. Core\AppNet6.Core\obj\Debug\net6.0\AppNet6.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\ejemplos NET 6\AppNet6\AppNet6\4. Core\AppNet6.Core\obj\Debug\net6.0\AppNet6.Core.AssemblyInfoInputs.cache
+E:\ejemplos NET 6\AppNet6\AppNet6\4. Core\AppNet6.Core\obj\Debug\net6.0\AppNet6.Core.AssemblyInfo.cs
+E:\ejemplos NET 6\AppNet6\AppNet6\4. Core\AppNet6.Core\obj\Debug\net6.0\AppNet6.Core.csproj.CoreCompileInputs.cache
+E:\ejemplos NET 6\AppNet6\AppNet6\4. Core\AppNet6.Core\obj\Debug\net6.0\AppNet6.Core.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\4. Core\AppNet6.Core\obj\Debug\net6.0\refint\AppNet6.Core.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\4. Core\AppNet6.Core\obj\Debug\net6.0\AppNet6.Core.pdb
+E:\ejemplos NET 6\AppNet6\AppNet6\4. Core\AppNet6.Core\obj\Debug\net6.0\ref\AppNet6.Core.dll
+E:\PROYECTO_NPS\AppNet6\4. Core\AppNet6.Core\bin\Debug\net6.0\AppNet6.Core.deps.json
+E:\PROYECTO_NPS\AppNet6\4. Core\AppNet6.Core\bin\Debug\net6.0\AppNet6.Core.dll
+E:\PROYECTO_NPS\AppNet6\4. Core\AppNet6.Core\bin\Debug\net6.0\AppNet6.Core.pdb
+E:\PROYECTO_NPS\AppNet6\4. Core\AppNet6.Core\obj\Debug\net6.0\AppNet6.Core.csproj.AssemblyReference.cache
+E:\PROYECTO_NPS\AppNet6\4. Core\AppNet6.Core\obj\Debug\net6.0\AppNet6.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROYECTO_NPS\AppNet6\4. Core\AppNet6.Core\obj\Debug\net6.0\AppNet6.Core.AssemblyInfoInputs.cache
+E:\PROYECTO_NPS\AppNet6\4. Core\AppNet6.Core\obj\Debug\net6.0\AppNet6.Core.AssemblyInfo.cs
+E:\PROYECTO_NPS\AppNet6\4. Core\AppNet6.Core\obj\Debug\net6.0\AppNet6.Core.csproj.CoreCompileInputs.cache
+E:\PROYECTO_NPS\AppNet6\4. Core\AppNet6.Core\obj\Debug\net6.0\AppNet6.Core.dll
+E:\PROYECTO_NPS\AppNet6\4. Core\AppNet6.Core\obj\Debug\net6.0\refint\AppNet6.Core.dll
+E:\PROYECTO_NPS\AppNet6\4. Core\AppNet6.Core\obj\Debug\net6.0\AppNet6.Core.pdb
+E:\PROYECTO_NPS\AppNet6\4. Core\AppNet6.Core\obj\Debug\net6.0\ref\AppNet6.Core.dll
+E:\PROYECTO_NPS\API_NPS\4. Core\AppNet6.Core\bin\Debug\net6.0\AppNet6.Core.deps.json
+E:\PROYECTO_NPS\API_NPS\4. Core\AppNet6.Core\bin\Debug\net6.0\AppNet6.Core.dll
+E:\PROYECTO_NPS\API_NPS\4. Core\AppNet6.Core\bin\Debug\net6.0\AppNet6.Core.pdb
+E:\PROYECTO_NPS\API_NPS\4. Core\AppNet6.Core\obj\Debug\net6.0\AppNet6.Core.csproj.AssemblyReference.cache
+E:\PROYECTO_NPS\API_NPS\4. Core\AppNet6.Core\obj\Debug\net6.0\AppNet6.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROYECTO_NPS\API_NPS\4. Core\AppNet6.Core\obj\Debug\net6.0\AppNet6.Core.AssemblyInfoInputs.cache
+E:\PROYECTO_NPS\API_NPS\4. Core\AppNet6.Core\obj\Debug\net6.0\AppNet6.Core.AssemblyInfo.cs
+E:\PROYECTO_NPS\API_NPS\4. Core\AppNet6.Core\obj\Debug\net6.0\AppNet6.Core.csproj.CoreCompileInputs.cache
+E:\PROYECTO_NPS\API_NPS\4. Core\AppNet6.Core\obj\Debug\net6.0\AppNet6.Core.dll
+E:\PROYECTO_NPS\API_NPS\4. Core\AppNet6.Core\obj\Debug\net6.0\refint\AppNet6.Core.dll
+E:\PROYECTO_NPS\API_NPS\4. Core\AppNet6.Core\obj\Debug\net6.0\AppNet6.Core.pdb
+E:\PROYECTO_NPS\API_NPS\4. Core\AppNet6.Core\obj\Debug\net6.0\ref\AppNet6.Core.dll

@@ -1,0 +1,51 @@
+E:\ejemplos NET 6\AppNet6\AppNet6\3. Negocios\AppNet6.Negocios\bin\Debug\net6.0\AppNet6.Negocios.deps.json
+E:\ejemplos NET 6\AppNet6\AppNet6\3. Negocios\AppNet6.Negocios\bin\Debug\net6.0\AppNet6.Negocios.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\3. Negocios\AppNet6.Negocios\bin\Debug\net6.0\AppNet6.Negocios.pdb
+E:\ejemplos NET 6\AppNet6\AppNet6\3. Negocios\AppNet6.Negocios\bin\Debug\net6.0\AppNet6.Core.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\3. Negocios\AppNet6.Negocios\bin\Debug\net6.0\AppNet6.Infrestructuras.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\3. Negocios\AppNet6.Negocios\bin\Debug\net6.0\AppNet6.Infrestructuras.pdb
+E:\ejemplos NET 6\AppNet6\AppNet6\3. Negocios\AppNet6.Negocios\bin\Debug\net6.0\AppNet6.Core.pdb
+E:\ejemplos NET 6\AppNet6\AppNet6\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\AppNet6.Negocios.csproj.AssemblyReference.cache
+E:\ejemplos NET 6\AppNet6\AppNet6\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\AppNet6.Negocios.GeneratedMSBuildEditorConfig.editorconfig
+E:\ejemplos NET 6\AppNet6\AppNet6\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\AppNet6.Negocios.AssemblyInfoInputs.cache
+E:\ejemplos NET 6\AppNet6\AppNet6\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\AppNet6.Negocios.AssemblyInfo.cs
+E:\ejemplos NET 6\AppNet6\AppNet6\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\AppNet6.Negocios.csproj.CoreCompileInputs.cache
+E:\ejemplos NET 6\AppNet6\AppNet6\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\AppNet6.Negocios.csproj.CopyComplete
+E:\ejemplos NET 6\AppNet6\AppNet6\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\AppNet6.Negocios.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\refint\AppNet6.Negocios.dll
+E:\ejemplos NET 6\AppNet6\AppNet6\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\AppNet6.Negocios.pdb
+E:\ejemplos NET 6\AppNet6\AppNet6\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\ref\AppNet6.Negocios.dll
+E:\PROYECTO_NPS\AppNet6\3. Negocios\AppNet6.Negocios\bin\Debug\net6.0\AppNet6.Negocios.deps.json
+E:\PROYECTO_NPS\AppNet6\3. Negocios\AppNet6.Negocios\bin\Debug\net6.0\AppNet6.Negocios.dll
+E:\PROYECTO_NPS\AppNet6\3. Negocios\AppNet6.Negocios\bin\Debug\net6.0\AppNet6.Negocios.pdb
+E:\PROYECTO_NPS\AppNet6\3. Negocios\AppNet6.Negocios\bin\Debug\net6.0\AppNet6.Core.dll
+E:\PROYECTO_NPS\AppNet6\3. Negocios\AppNet6.Negocios\bin\Debug\net6.0\AppNet6.Infrestructuras.dll
+E:\PROYECTO_NPS\AppNet6\3. Negocios\AppNet6.Negocios\bin\Debug\net6.0\AppNet6.Infrestructuras.pdb
+E:\PROYECTO_NPS\AppNet6\3. Negocios\AppNet6.Negocios\bin\Debug\net6.0\AppNet6.Core.pdb
+E:\PROYECTO_NPS\AppNet6\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\AppNet6.Negocios.csproj.AssemblyReference.cache
+E:\PROYECTO_NPS\AppNet6\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\AppNet6.Negocios.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROYECTO_NPS\AppNet6\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\AppNet6.Negocios.AssemblyInfoInputs.cache
+E:\PROYECTO_NPS\AppNet6\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\AppNet6.Negocios.AssemblyInfo.cs
+E:\PROYECTO_NPS\AppNet6\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\AppNet6.Negocios.csproj.CoreCompileInputs.cache
+E:\PROYECTO_NPS\AppNet6\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\AppNet6.Negocios.csproj.CopyComplete
+E:\PROYECTO_NPS\AppNet6\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\AppNet6.Negocios.dll
+E:\PROYECTO_NPS\AppNet6\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\refint\AppNet6.Negocios.dll
+E:\PROYECTO_NPS\AppNet6\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\AppNet6.Negocios.pdb
+E:\PROYECTO_NPS\AppNet6\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\ref\AppNet6.Negocios.dll
+E:\PROYECTO_NPS\API_NPS\3. Negocios\AppNet6.Negocios\bin\Debug\net6.0\AppNet6.Negocios.deps.json
+E:\PROYECTO_NPS\API_NPS\3. Negocios\AppNet6.Negocios\bin\Debug\net6.0\AppNet6.Negocios.dll
+E:\PROYECTO_NPS\API_NPS\3. Negocios\AppNet6.Negocios\bin\Debug\net6.0\AppNet6.Negocios.pdb
+E:\PROYECTO_NPS\API_NPS\3. Negocios\AppNet6.Negocios\bin\Debug\net6.0\AppNet6.Core.dll
+E:\PROYECTO_NPS\API_NPS\3. Negocios\AppNet6.Negocios\bin\Debug\net6.0\AppNet6.Infrestructuras.dll
+E:\PROYECTO_NPS\API_NPS\3. Negocios\AppNet6.Negocios\bin\Debug\net6.0\AppNet6.Infrestructuras.pdb
+E:\PROYECTO_NPS\API_NPS\3. Negocios\AppNet6.Negocios\bin\Debug\net6.0\AppNet6.Core.pdb
+E:\PROYECTO_NPS\API_NPS\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\AppNet6.Negocios.csproj.AssemblyReference.cache
+E:\PROYECTO_NPS\API_NPS\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\AppNet6.Negocios.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROYECTO_NPS\API_NPS\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\AppNet6.Negocios.AssemblyInfoInputs.cache
+E:\PROYECTO_NPS\API_NPS\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\AppNet6.Negocios.AssemblyInfo.cs
+E:\PROYECTO_NPS\API_NPS\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\AppNet6.Negocios.csproj.CoreCompileInputs.cache
+E:\PROYECTO_NPS\API_NPS\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\AppNet6.Negocios.csproj.CopyComplete
+E:\PROYECTO_NPS\API_NPS\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\AppNet6.Negocios.dll
+E:\PROYECTO_NPS\API_NPS\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\refint\AppNet6.Negocios.dll
+E:\PROYECTO_NPS\API_NPS\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\AppNet6.Negocios.pdb
+E:\PROYECTO_NPS\API_NPS\3. Negocios\AppNet6.Negocios\obj\Debug\net6.0\ref\AppNet6.Negocios.dll
